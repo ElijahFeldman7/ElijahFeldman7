@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there
+Checkout https://elijahfeldman.me
 
 <!--
 **ElijahFeldman7/ElijahFeldman7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
