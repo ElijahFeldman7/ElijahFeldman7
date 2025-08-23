@@ -1,7 +1,7 @@
 ## Hi there 😄
 Here's some stuff about me https://elijahfeldman.me <br />
 - I use [workflow](https://elijahfeldman7.github.io/workflow/) to manage my work
-- I use Ubunutu 20.04 LTS with pentium silver 4gb ram
+- I use Arch with pentium silver 4gb ram
 
 
 <!--
