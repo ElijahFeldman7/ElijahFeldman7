@@ -1,7 +1,7 @@
 ## Hi there 😄
 Here's some stuff about me https://elijahfeldman.me <br />
 - I use [workflow](https://elijahfeldman7.github.io/workflow/) to manage my work (currently broke this)
-- I use Arch with pentium silver 4gb ram
+- I use Arch with pentium silver 4gb ram btw
 
 <!--
 **ElijahFeldman7/ElijahFeldman7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
